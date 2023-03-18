@@ -9,5 +9,8 @@ typechain-types
 cache
 artifacts
 
-hardhat
+hardhat/artifacts
+hardhat/cache
+hardhat/node_modules
+hardhat/test
 .idea
